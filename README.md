@@ -1,7 +1,5 @@
 # Clustering-Affordable-Cafes-for-Students-Near-Universitas-Brawijaya-Campus-
 
-Credit: Nadia Alzena, Tri Januardi, Susilawati Sahro, M. Haidar Ali, Regyna Wahyunda
-
 <div style="text-align: center;">
   <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e5/73/92/photo1jpg.jpg?w=900&h=500&s=1" 
        alt="BANNER Cafe" 
